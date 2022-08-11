@@ -6,13 +6,13 @@ Game of checkers. The main goal of the game is to take all of the other players 
 
 ## Game pictures
 
-![start!](checkers_game/start.png)
+![start!](https://github.com/manases1/Project1-BrowserGame-Chekers/blob/e8a0950da71307bad8d64e644d56633bdbfe364f/start.png)
 
 
-![middle!](checkers_game/middle.png)
+![middle!](https://github.com/manases1/Project1-BrowserGame-Chekers/blob/e8a0950da71307bad8d64e644d56633bdbfe364f/middle.png)
 
 
-![king!](checkers_game/end.png)
+![king!](https://github.com/manases1/Project1-BrowserGame-Chekers/blob/e8a0950da71307bad8d64e644d56633bdbfe364f/end.png)
 
 
 --
