@@ -6,12 +6,15 @@ Game of checkers. The main goal of the game is to take all of the other players 
 
 ## Game pictures
 
-<img src="Screen Shot 2022-08-11 at 10.49.49 AM.png">
+![start!](checkers_game/start.png)
 
-<img src="Screen Shot 2022-08-11 at 10.49.57 AM.png">
 
-<img src="Screen Shot 2022-08-11 at 10.50.18 AM.png">
 
+![middle!](checkers_game/middle.png)
+
+
+
+![king!](checkers_game/end.png)
 
 
 --
