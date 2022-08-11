@@ -9,9 +9,7 @@ Game of checkers. The main goal of the game is to take all of the other players 
 ![start!](checkers_game/start.png)
 
 
-
 ![middle!](checkers_game/middle.png)
-
 
 
 ![king!](checkers_game/end.png)
